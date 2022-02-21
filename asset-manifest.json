@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gauravkhatri2698/QRCode-Generator.git/static/css/main.959d12b2.css",
+    "main.js": "/gauravkhatri2698/QRCode-Generator.git/static/js/main.8b8f8137.js",
+    "static/js/787.da4e636b.chunk.js": "/gauravkhatri2698/QRCode-Generator.git/static/js/787.da4e636b.chunk.js",
+    "index.html": "/gauravkhatri2698/QRCode-Generator.git/index.html",
+    "main.959d12b2.css.map": "/gauravkhatri2698/QRCode-Generator.git/static/css/main.959d12b2.css.map",
+    "main.8b8f8137.js.map": "/gauravkhatri2698/QRCode-Generator.git/static/js/main.8b8f8137.js.map",
+    "787.da4e636b.chunk.js.map": "/gauravkhatri2698/QRCode-Generator.git/static/js/787.da4e636b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.959d12b2.css",
+    "static/js/main.8b8f8137.js"
+  ]
+}
